@@ -8,6 +8,5 @@
 </head>
 <body>
 WDA 6조
-선재
 </body>
 </html>
