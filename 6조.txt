@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ﻿6조
+=======
+﻿6��
+Baek Sun Jae is Crazy
+>>>>>>> 81de8460a3264ca2acbd49c9a392384925efe858
